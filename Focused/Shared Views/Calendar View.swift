@@ -1,4 +1,4 @@
-import SwiftUI //аваолдв
+import SwiftUI
 import SwiftData
 
 // MARK: - Date Rectangle Icon (Rounded Rectangle Style)
