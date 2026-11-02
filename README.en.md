@@ -2,7 +2,7 @@
 
 # Focused
 
-The first test version of YULO, the main tracker. On iPhone and iPad it keeps life spheres, goals, tasks, habits, and notes. Data stays on the device.
+The first test version of YULO, the main tracker project (this repo is for YULO history sake). On iPhone and iPad it keeps life spheres, goals, tasks, habits, and notes. Data stays on the device.
 
 On the first launch the app adds sample items so the screens are not empty.
 
